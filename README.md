@@ -245,4 +245,4 @@ This project is open-sourced under the **MIT License**. See the [LICENSE](LICENS
 
 ## Project Lead 
 
-Crafted with passion by **[Abdul Rahman](https://github.com/ABDUL-RAHMAN-9)**  
+Crafted with passion by **[Abdul Rahman](https://github.com/abdul-rahman-0x)**  
