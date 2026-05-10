@@ -19,7 +19,7 @@ export default function TermsPage() {
                             <ShieldCheck className="size-4" /> {/* Swapped Scale for ShieldCheck for a "Security" vibe */}
                             Atlash Legal Framework
                         </div>
-                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tighter">Terms of Service</h1>
+                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">Terms of Service</h1>
                         <p className="text-muted-foreground font-medium">Infrastructure Protocol Version: 1.0.4 — March 2026</p>
                     </div>
 

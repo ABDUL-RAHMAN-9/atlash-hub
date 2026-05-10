@@ -30,7 +30,7 @@ export default function SectionHeader({
                     {tagline}
                 </div>
 
-                <h2 className="text-4xl md:text-5xl font-extrabold tracking-tighter text-foreground leading-none">
+                <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-none">
                     {title}
                 </h2>
 

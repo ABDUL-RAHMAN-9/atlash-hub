@@ -55,7 +55,7 @@ export default function HeroSection() {
 
                     <DiscoveryBadge />
 
-                    <h1 className="text-5xl sm:text-7xl lg:text-8xl font-extrabold tracking-tighter mb-8 max-w-5xl text-foreground leading-[0.95]">
+                    <h1 className="text-5xl sm:text-7xl lg:text-8xl font-extrabold tracking-tight mb-8 max-w-5xl text-foreground leading-[0.95]">
                         Reveal the Future <br />
                         <span className="text-primary drop-shadow-sm">
                             Discover What&apos;s Scaling

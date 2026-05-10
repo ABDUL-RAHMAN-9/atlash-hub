@@ -1,4 +1,5 @@
-import SectionHeader from "@/components/common/section-header"
+// components/landing-page/featured-products.tsx
+import SectionHeader from "@/components/common/section-header";
 import { Stars } from "lucide-react";
 import ProductCard from "@/components/products/product-card";
 import { getFeaturedProducts } from "@/lib/products/product-select";
@@ -18,10 +19,7 @@ export default async function FeaturedProducts() {
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {featuredProducts.map((product) => (
-                        <ProductCard
-                            key={product.id}
-                            product={product}
-                        />
+                        <ProductCard key={product.id} product={product} />
                     ))}
                 </div>
             </div>

@@ -19,7 +19,7 @@ export default function SupportPage() {
                             <MessageCircle className="size-4" />
                             User Assistance Portal
                         </div>
-                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tighter">Help & Support</h1>
+                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">Help & Support</h1>
                         <p className="text-muted-foreground font-medium lowercase">find answers to common questions or get in touch with our team.</p>
                     </div>
 

@@ -106,7 +106,7 @@ export default async function ProductDetailPage({
                                     <Box className="size-10 text-primary" />
                                 </div>
                                 <div className="space-y-2">
-                                    <h1 className="text-5xl md:text-7xl font-black tracking-tighter text-foreground leading-[0.85]">
+                                    <h1 className="text-5xl md:text-7xl font-black tracking-tight text-foreground leading-[0.85]">
                                         {name}
                                     </h1>
                                     <p className="text-xl md:text-2xl text-muted-foreground font-medium max-w-2xl leading-relaxed">

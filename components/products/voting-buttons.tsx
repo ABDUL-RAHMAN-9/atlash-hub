@@ -82,7 +82,7 @@ export default function VotingButtons({
                 )}>
                     {optimisticVoteCount}
                 </span>
-                <span className="text-[7px] font-bold uppercase tracking-tighter text-muted-foreground/40 mt-1">
+                <span className="text-[7px] font-bold uppercase tracking-tight text-muted-foreground/40 mt-1">
                     Index
                 </span>
             </div>

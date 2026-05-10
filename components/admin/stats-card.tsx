@@ -61,7 +61,7 @@ export default function AdminStatsCard({
                     </div>
 
                     <div className="space-y-1">
-                        <p className="text-5xl font-black tracking-tighter text-foreground leading-none">
+                        <p className="text-5xl font-black tracking-tight text-foreground leading-none">
                             {count}
                         </p>
                         <p className="text-[9px] font-bold text-muted-foreground/40 uppercase tracking-widest">

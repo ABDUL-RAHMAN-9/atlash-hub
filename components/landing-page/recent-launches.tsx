@@ -1,3 +1,4 @@
+// components/landing-page/recent-launches.tsx
 import SectionHeader from "@/components/common/section-header";
 import { Activity, Calendar } from "lucide-react";
 import ProductCard from "@/components/products/product-card";

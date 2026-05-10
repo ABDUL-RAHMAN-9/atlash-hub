@@ -39,7 +39,7 @@ export default function Footer() {
                             <div className="size-10 rounded-xl bg-primary flex items-center justify-center shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] border-2 border-foreground transition-transform group-hover:scale-105">
                                 <Activity className="size-5 text-primary-foreground" />
                             </div>
-                            <span className="text-2xl font-black tracking-tighter text-foreground">
+                            <span className="text-2xl font-black tracking-tight text-foreground">
                                 Atlash
                             </span>
                         </Link>

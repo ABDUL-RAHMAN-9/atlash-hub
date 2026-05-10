@@ -19,7 +19,7 @@ export default function PrivacyPage() {
                             <Lock className="size-4" />
                             Infrastructure Security Protocol
                         </div>
-                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tighter">Privacy Policy</h1>
+                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">Privacy Policy</h1>
                         <p className="text-muted-foreground font-medium">Protocol Updated: March 2026</p>
                     </div>
 

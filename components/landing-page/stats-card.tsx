@@ -22,7 +22,7 @@ export default function StatsCard({
                 {/* Changed primary/60 to primary for a "Live Status" glow effect */}
                 <Icon className="size-5 text-primary drop-shadow-[0_0_8px_rgba(var(--primary),0.2)] transition-transform group-hover:scale-110" />
 
-                <p className="text-4xl font-extrabold tracking-tighter text-foreground leading-none">
+                <p className="text-4xl font-extrabold tracking-tight text-foreground leading-none">
                     {value}
                 </p>
             </div>

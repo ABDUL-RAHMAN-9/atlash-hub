@@ -17,7 +17,7 @@ const Logo = () => {
             <div className="size-8 md:size-9 rounded-xl bg-primary flex items-center justify-center shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] border-2 border-foreground">
                 <Activity className="size-4 md:size-5 text-primary-foreground" />
             </div>
-            <span className="text-xl md:text-2xl font-black tracking-tighter text-foreground">
+            <span className="text-xl md:text-2xl font-black tracking-tight text-foreground">
                 Atlash
             </span>
         </Link>

@@ -36,7 +36,7 @@ export default function AdminProductCard({ product }: { product: ProductType }) 
                 {/* 1. ARCHITECTURAL OVERVIEW COLUMN */}
                 <div className="flex-1 min-w-0 space-y-6">
                     <div className="flex flex-wrap items-center gap-3">
-                        <CardTitle className="text-2xl font-black tracking-tighter text-foreground">
+                        <CardTitle className="text-2xl font-black tracking-tight text-foreground">
                             {product.name}
                         </CardTitle>
 

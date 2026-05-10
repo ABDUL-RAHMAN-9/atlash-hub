@@ -19,7 +19,7 @@ export default function GuidelinesPage() {
                             <Heart className="size-4 fill-current" />
                             Community Standards
                         </div>
-                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tighter">Community Rules</h1>
+                        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">Community Rules</h1>
                         <p className="text-muted-foreground font-medium lowercase">how we build, share, and grow together at atlash hub.</p>
                     </div>
 
