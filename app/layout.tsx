@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "@/components/common/header";
 import { ClerkProvider } from '@clerk/nextjs'
 import Footer from "@/components/common/footer";
+import { Analytics } from "@vercel/analytics/react";
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -43,6 +44,7 @@ export default function RootLayout({
             {children}
             <Footer />
           </main>
+          <Analytics />
         </body>
       </html>
     </ClerkProvider>
